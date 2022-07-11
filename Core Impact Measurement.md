@@ -19,7 +19,7 @@ Core's impact measurement approach can be summarized by the following table:
 
 ## Quality
 Quality captures the degree to which a company is or will generate impactful outcomes for individuals. 
-###Value Creation
+### Value Creation
 Value creation is measured as the cost savings, wealth creation, or risk mitigation provided to the company's users.
 Measuring value creation is highly specific to each company, and therefore requires a deep understanding of the business model of each portfolio company.
 However, there is a general process to be followed. First, the cost, wealth benefit, or risk mitigation of the portfolio company is approximated by a dollar value on a per active user basis. 
@@ -136,7 +136,7 @@ For each company, a **Company Impact Score** is assigned according to the follow
 
 Company Impact Score = Quality Score * 0.4 + Scale Score * 0.4 + Alignment Score * 0.2
 
-###Portfolio Level
+### Portfolio Level
 The portfolio is assigned a **Portfolio Quality Score** by averaging the Quality Scores of each company with available data.
 
 The portfolio is assigned a **Portfolio Scale Score** by averaging the Scale Scores of each company with available data.
