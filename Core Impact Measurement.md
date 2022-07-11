@@ -122,19 +122,19 @@ This applies to the three measures of Quality and the two measures of Scale.
 ### Company Level
 For each company, the **Quality Score** is calculated according to the following formula:
 
-Quality Score = (Value Creation Score + Impact Stakeholders Score + Impact Traction Score)/3
+*Quality Score = (Value Creation Score + Impact Stakeholders Score + Impact Traction Score)/3* 
 
 For each company, the **Scale Score** is calculated according to the following formula:
 
-Scale Score = (Individuals Served Score + Target Demographic Score)/2
+*Scale Score = (Individuals Served Score + Target Demographic Score)/2*
 
 For each company, the **Alignment Score** is calculated according to the following formula:
 
-Alignment Score = (Revenue Savings Correlation Score + Impact KPI Score)/2
+*Alignment Score = (Revenue Savings Correlation Score + Impact KPI Score)/2*
 
 For each company, a **Company Impact Score** is assigned according to the following formula:
 
-Company Impact Score = Quality Score * 0.4 + Scale Score * 0.4 + Alignment Score * 0.2
+*Company Impact Score = Quality Score * 0.4 + Scale Score * 0.4 + Alignment Score * 0.2*
 
 ### Portfolio Level
 The portfolio is assigned a **Portfolio Quality Score** by averaging the Quality Scores of each company with available data.
@@ -145,7 +145,7 @@ The portfolio is assigned an **Portfolio Alignment Score** by averaging the Alig
 
 The portfolio is assigned a **Portfolio Impact Score** according to the following formula:
 
-Portfolio Impact Score = Portfolio Quality Score * 0.4 + Portfolio Scale Score * 0.4 + Portfolio Alignment Score * 0.2
+*Portfolio Impact Score = Portfolio Quality Score * 0.4 + Portfolio Scale Score * 0.4 + Portfolio Alignment Score * 0.2*
 
 ## Exceptions
 ### Exited Companies
