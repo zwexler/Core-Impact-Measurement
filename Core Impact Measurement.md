@@ -15,7 +15,7 @@ Each is also assigned a weight according to Core's priorities in order to enable
 
 Core's impact measurement approach can be summarized by the following table:
 
-![img_1.png](img_1.png)
+![Image 1](/Images/Image 1.png)
 
 ## Quality
 Quality captures the degree to which a company is or will generate impactful outcomes for individuals. 
