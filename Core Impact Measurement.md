@@ -38,25 +38,25 @@ For example, the risk mitigation value of a home insurance company may involve c
 
 If the company is being measured by costs savings, it is assigned a **Value Creation Score** according to the following schedule:
 
-![img_2.png](img_2.png)
+![Image 2](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%202.png)
 
 If the company is being measured by wealth creation, scoring is determined by materiality buckets. 
 Materiality is defined as the company's ability to facilitate 2% in new wealth creation per user relative to average user income.
 The company is assigned a **Value Creation Score** according to the following schedule:
 
-![img_6.png](img_6.png)
+![Image 3](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%203.png)
 
 If the company is being measured by risk mitigation, scores are once again determined by materiality buckets.
 Materiality is defined as the company's ability to facilitate a 2% improvement in risk mitigation per user relative to the average user income.
 The company is assigned a **Value Creation Score** according to the following schedule:
 
-![img_5.png](img_5.png)
+![Image 4](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%204.png)
 
 ### Impact Stakeholders
 Impact stakeholders are individuals or entities that are connected to the company that have an explicit focus on social impact. 
 The company is assigned an **Impact Stakeholders Score** according to the following schedule:
 
-![img_7.png](img_7.png)
+![Image 5](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%205.png)
 
 ### Impact Traction
 Impact traction is the degree to which the company has already demonstrated its ability to create positive change or its potential to do so.
@@ -72,12 +72,12 @@ Plan is evaluated according to the impact on insurance coverage, the impact on f
 
 The company is assigned a score for each of these categories according to the following schedule:
 
-![img_10.png](img_10.png)
+![Image 6](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%206.png)
 
 The company is also given a traction score based on the maturity of the business. 
 The company is assigned a score for traction according to the following schedule:
 
-![img_9.png](img_9.png)
+![Image 7](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%207.png)
 
 The overall **Impact Traction Score** is calculated by averaging the spend, save, borrow, plan, and traction scores.
 
@@ -90,14 +90,14 @@ Active users should be those individuals or entities that are currently particip
 The total number of active users identified is then compared to a previously determined goal active user goal for the company.
 The company is assigned a **Individuals Served Score** according to the following schedule:
 
-![img_13.png](img_13.png)
+![Image 8](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%208.png)
 
 ### Target Demographic
 After identifying the size of the active user base, the percentage of users in each income quintile is determined according to the buckets published by the US Census Bureau.
 Attributing the user base by income quintile can be difficult. Often the best approach is use approximations provided by the company or to make assumptions based on user geography or other demographics.
 Once the percentage of users in each income quintile are determined, the company is assigned a **Target Demographic Score** according to the following schedule:
 
-![img_11.png](img_11.png)
+![Image 9](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%209.png)
 
 ## Alignment
 Alignment captures the depth of connection between the company's business model and its social impact and the degree to which the company is actively monitoring its social impact.
@@ -105,7 +105,7 @@ Alignment captures the depth of connection between the company's business model 
 If a company has three or more years of available revenue and savings per user data, the correlation between annual savings per customer and annual revenue is calculated using all years of available data.
 The company is assigned a **Revenue/Savings Correlation Score** according to the following schedule:
 
-![img_12.png](img_12.png)
+![Image 10](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%2010.png)
 
 If the necessary three years of data is not available to calculate the correlation, the company is assigned a score of 1-10 for each of the Financial Health Network's Compass Principles: embrace inclusion, build trust, promote success, create opportunity.
 The company is also assigned an impact probability by the Financial Health Network.
