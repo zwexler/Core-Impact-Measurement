@@ -17,7 +17,7 @@ Core's impact measurement approach can be summarized by the following table:
 
 ![Image 1](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%201.png)
 
-"\*" Compass Principles is a proprietary rating system developed by the Financial Health Network, the leading nonprofit organization dedicated to cultivating and highlighting financially responsible products, in order to articulate the essential components of high-quality financial products.
+\* Compass Principles is a proprietary rating system developed by the Financial Health Network, the leading nonprofit organization dedicated to cultivating and highlighting financially responsible products, in order to articulate the essential components of high-quality financial products.
 
 ## Quality
 Quality captures the degree to which a company is or will generate impactful outcomes for individuals. 
