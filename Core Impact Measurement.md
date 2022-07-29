@@ -11,7 +11,7 @@ Scale captures the number of individuals benefiting from the company's operation
 Alignment captures the depth of connection between the company's business model and its social impact and the degree to which the company is actively monitoring its social impact.
 
 Each of these measures has an associated methodology to arrive at a value or score for each portfolio company. 
-Each is also assigned a weight according to Core's priorities in order to enable aggregation to a company-level and portfolio-level scores.
+Each is also assigned a weight according to Core's priorities in order to enable aggregation to portfolio-level scores.
 
 Core's impact measurement approach can be summarized by the following table:
 
@@ -25,7 +25,7 @@ Measuring value creation is highly specific to each company, and therefore requi
 However, there is a general process to be followed. First, the cost, wealth benefit, or risk mitigation of the portfolio company is approximated by a dollar value on a per active user basis. 
 Then, the next best alternative product in the market is identified as a benchmark. 
 The cost, wealth benefit, or risk mitigation of the benchmark product is approximated by a dollar value on a per active user basis.
-Finally, the cost, wealth benefit, or risk mitigation of the benchmark is compared to that of the portfolio company to arrive that value creation for the portfolio company.
+Finally, the cost, wealth benefit, or risk mitigation of the benchmark is compared to that of the portfolio company to arrive at that value creation for the portfolio company.
 
 For companies being evaluated based on cost savings, measurement usually entails simply comparing the cost of the company's product to the cost of the most similar alternative product available.
 For example, the cost savings value of a lender may be calculated by comparing the average interest rate of the lender to its nearest competitor offering similarly structured loans.
