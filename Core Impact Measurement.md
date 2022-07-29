@@ -15,7 +15,7 @@ Each is also assigned a weight according to Core's priorities in order to enable
 
 Core's impact measurement approach can be summarized by the following table:
 
-![Image 1](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%201.png)
+![Image 1](https://github.com/pholt18/Core-Impact-Measurement/blob/1a19df41eb6ce1b3fb84bed7919f08c49fd0648f/Images/Image%201.png)
 
 \* Compass Principles is a proprietary rating system developed by the Financial Health Network, the leading nonprofit organization dedicated to cultivating and highlighting financially responsible products, in order to articulate the essential components of high-quality financial products.
 
