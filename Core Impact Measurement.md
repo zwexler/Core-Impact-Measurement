@@ -79,7 +79,7 @@ The company is assigned a score for each of these categories according to the fo
 The company is also given a traction score based on the maturity of the business. 
 The company is assigned a score for traction according to the following schedule:
 
-![Image 7](https://github.com/pholt18/Core-Impact-Measurement/blob/e74a3a1874fbc163ebeaf21dc7b3a2e553d132f0/Images/Image%207.png)
+![Image 7]([https://github.com/pholt18/Core-Impact-Measurement/blob/e74a3a1874fbc163ebeaf21dc7b3a2e553d132f0/Images/Image%207.png])
 
 The overall **Impact Traction Score** is calculated by averaging the spend, save, borrow, plan, and traction scores.
 
