@@ -60,7 +60,7 @@ Each company is assigned an **Impact Stakeholders Score** according to the follo
 
 ![Image 5](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%205.png)
 
-The **Portfolio Impact Stakeholders Score** is then calculated as the average score across all portfolio companies.
+The **Portfolio Impact Stakeholders Score** is then calculated as the average score across all portfolio companies with available data.
 
 ### Impact Traction
 Impact traction is the degree to which a company has already demonstrated its ability to create positive change or its potential to do so.
@@ -84,7 +84,7 @@ The company is also given a traction score based on the maturity of the business
 
 The **Impact Traction Score** for each company is calculated by averaging the spend, save, borrow, plan, and traction scores.
 
-The **Portfolio Impact Traction Score** is then calculated as the average score across all portfolio companies.
+The **Portfolio Impact Traction Score** is then calculated as the average score across all portfolio companies with available data.
 
 ## Scale
 Scale captures the number of individuals benefiting from a company's operations and how well the company is serving Core's target demographic of indiviudals in the bottom three quintiles of income.
@@ -121,7 +121,7 @@ The company is assigned a **Revenue-to-Savings Correlation Score** by averaging 
 ### Impact KPI
 Each portfolio company is assigned a **Impact KPI Score** of 0 or 10 according to whether it actively monitors at least one impact KPI.
 
-The portfolio is then assigned a **Portfolio Impact KPI Score** by averaging the scores across all portfolio companies.
+The portfolio is then assigned a **Portfolio Impact KPI Score** by averaging the scores across all portfolio companies with available data.
 
 ## Aggregation
 Through the processes described above, the portfolio is assigned a score for each of the measures described in the Introduction. Once all of these score have been calculated, category scores can be assigned for the portfolio.
