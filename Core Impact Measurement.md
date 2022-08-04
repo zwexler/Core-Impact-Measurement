@@ -84,7 +84,7 @@ The company is assigned a score for traction according to the following schedule
 The overall **Impact Traction Score** is calculated by averaging the spend, save, borrow, plan, and traction scores.
 
 ## Scale
-Scale captures the number of individuals benefiting from the company's operations and how well the company is serving Core's target demographic of indiviudals in the bottom two quintiles of income.
+Scale captures the number of individuals benefiting from the company's operations and how well the company is serving Core's target demographic of indiviudals in the bottom three quintiles of income.
 
 ### Individuals Served
 In order to measure the scale dimension of impact, the total number of active users must be identified.
