@@ -92,7 +92,7 @@ Active users should be those individuals or entities that are currently particip
 The total number of active users identified is then compared to a previously determined goal active user goal for the company.
 The company is assigned a **Individuals Served Score** according to the following schedule:
 
-![Image 8](https://github.com/pholt18/Core-Impact-Measurement/blob/c102fec80c062da9d14b2c4161aa4568392e4c29/Images/Image%208.png)
+![Image 8](https://github.com/pholt18/Core-Impact-Measurement/blob/86894d2322b5d3bc7bc03b0e401d39be67309ab1/Images/Image%208.png)
 
 ### Target Demographic
 After identifying the size of the active user base, the percentage of users in each income quintile is determined according to the buckets published by the US Census Bureau.
