@@ -38,9 +38,9 @@ For example, the wealth creation of a product enabling access to a new asset cla
 For companies being evaluated based on risk mitigation, measurement usually entails comparing the cost of the company's product to the probability weighted cost incurred by not using the product.
 For example, the risk mitigation value of a home insurance company may involve comparing the cost of the home insurance premium to the probability weighted cost of being uninsured and incurring a loss on one's home.
 
-The overall monthly savings per user of the portfolio is calculated by weighting each company using that method according to the size of its customer base. The result is calculated according to the following formula, where *i* represents each company being evaluated based on cost savings:
+The overall monthly savings per user of the portfolio is calculated by weighting each company's result according to the size of its customer base. The value is calculated according to the following formula, where *i* represents each company being evaluated based on cost savings:
 
-*Portfolio Savings Per User = summation(Savings Per User<sub>i</sub> * Individuals Served<sub>i</sub>)/summation(Individuals Served<sub>i</sub>)*
+*Savings Per User Per Month = summation(Savings Per User Per Month<sub>i</sub> * Individuals Served<sub>i</sub>)/summation(Individuals Served<sub>i</sub>)*
 
 The portfolio is assigned a **Portfolio Cost Savings Score** according to the following schedule:
 
