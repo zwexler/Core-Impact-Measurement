@@ -38,37 +38,32 @@ For example, the wealth creation of a product enabling access to a new asset cla
 For companies being evaluated based on risk mitigation, measurement usually entails comparing the cost of the company's product to the probability weighted cost incurred by not using the product.
 For example, the risk mitigation value of a home insurance company may involve comparing the cost of the home insurance premium to the probability weighted cost of being uninsured and incurring a loss on one's home.
 
-The overall monthly savings per user of the portfolio is calculated by weighting each company using that method according to the size of its customer base, according to the following formula:
+The overall monthly savings per user of the portfolio is calculated by weighting each company using that method according to the size of its customer base. The result is calculated according to the following formula, where *i* represents each company being evaluated based on cost savings:
 
-*Portfolio Savings Per User = summation(Savings Per User<sub>i</sub> * Individuals Served<sub>i</sub>)/summation(Individuals Served<sub>i</sub>)
+*Portfolio Savings Per User = summation(Savings Per User<sub>i</sub> * Individuals Served<sub>i</sub>)/summation(Individuals Served<sub>i</sub>)*
 
-The portfolio is assigned a **Portfolio Cost Savings Score**
+The portfolio is assigned a **Portfolio Cost Savings Score** according to the following schedule:
 
-The portfolio is assigned a **Portfolio Wealth Creation Score**
+![Image 2](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%202.png)
 
-The portfolio is assigned a **Portfolio Risk Mitigation Score**
+For each company being measured by wealth creation, scoring is determined by materiality buckets. 
+Materiality is defined as the company's ability to facilitate 2% in new wealth creation per user relative to average user income.
+Each company being evaluated based on wealth creation is assigned a **Wealth Creation Score** according to the following schedule:
+The **Portfolio Wealth Creation Score** is then calculated as the average score across all portfolio companies with available data.
+
+![Image 3](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%203.png)
+
+For each company being measured by risk mitigation, scores are once again determined by materiality buckets.
+Materiality is defined as the company's ability to facilitate a 2% improvement in risk mitigation per user relative to the average user income.
+Each company being evaluated based on risk mitigation is assigned a **Risk Mitigation Score** according to the following schedule:
+
+![Image 4](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%204.png)
+
+The **Portfolio Risk Mitigation Score** is then calculated as the average score across all portfolio companies with available data.
 
 Finally, the portfolio is assigned **Portfolio Value Creation Score** by weighting each type of score according to the number of portfolio companies being measured by that method:
 
 *Portfolio Value Creation Score = (Portfolio Cost Savings Score * # of Cost Savings Companies + Portfolio Wealth Creation Score * # of Wealth Creation Companies + Portfolio Risk Mitigation Score * # of Risk Mitigation Companies)/Total # of Portfolio Companies with Available Data*
-
-
-
-If the company is being measured by costs savings, it is assigned a **Value Creation Score** according to the following schedule:
-
-![Image 2](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%202.png)
-
-If the company is being measured by wealth creation, scoring is determined by materiality buckets. 
-Materiality is defined as the company's ability to facilitate 2% in new wealth creation per user relative to average user income.
-The company is assigned a **Value Creation Score** according to the following schedule:
-
-![Image 3](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%203.png)
-
-If the company is being measured by risk mitigation, scores are once again determined by materiality buckets.
-Materiality is defined as the company's ability to facilitate a 2% improvement in risk mitigation per user relative to the average user income.
-The company is assigned a **Value Creation Score** according to the following schedule:
-
-![Image 4](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%204.png)
 
 ### Impact Stakeholders
 Impact stakeholders are individuals or entities that are connected to the company that have an explicit focus on social impact. 
