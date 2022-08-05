@@ -22,7 +22,7 @@ Core's impact measurement approach can be summarized by the following table:
 ## Quality
 Quality captures the degree to which the portfolio is generating impactful outcomes for individuals. 
 ### Value Creation
-Value creation is measured as the cost savings, wealth creation, or risk mitigation provided to a company's users.
+Value creation is measured as the cost savings, wealth creation, or risk mitigation provided to a portfolio company's users.
 Measuring value creation is highly specific to each company, and therefore requires a deep understanding of the business model of each portfolio company.
 However, there is a general process to be followed. First, the cost, wealth benefit, or risk mitigation of the portfolio company is approximated by a dollar value on a per active user basis. 
 Then, the next best alternative product in the market is identified as a benchmark. 
@@ -37,6 +37,22 @@ For example, the wealth creation of a product enabling access to a new asset cla
 
 For companies being evaluated based on risk mitigation, measurement usually entails comparing the cost of the company's product to the probability weighted cost incurred by not using the product.
 For example, the risk mitigation value of a home insurance company may involve comparing the cost of the home insurance premium to the probability weighted cost of being uninsured and incurring a loss on one's home.
+
+The overall monthly savings per user of the portfolio is calculated by weighting each company using that method according to the size of its customer base, according to the following formula:
+
+*Portfolio Savings Per User = summation(Savings Per User<sub>i</sub> * Individuals Served<sub>i</sub>)/summation(Individuals Served<sub>i</sub>)
+
+The portfolio is assigned a **Portfolio Cost Savings Score**
+
+The portfolio is assigned a **Portfolio Wealth Creation Score**
+
+The portfolio is assigned a **Portfolio Risk Mitigation Score**
+
+Finally, the portfolio is assigned **Portfolio Value Creation Score** by weighting each type of score according to the number of portfolio companies being measured by that method:
+
+*Portfolio Value Creation Score = (Portfolio Cost Savings Score * # of Cost Savings Companies + Portfolio Wealth Creation Score * # of Wealth Creation Companies + Portfolio Risk Mitigation Score * # of Risk Mitigation Companies)/Total # of Portfolio Companies with Available Data*
+
+
 
 If the company is being measured by costs savings, it is assigned a **Value Creation Score** according to the following schedule:
 
