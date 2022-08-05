@@ -49,9 +49,10 @@ The portfolio is assigned a **Portfolio Cost Savings Score** according to the fo
 For each company being measured by wealth creation, scoring is determined by materiality buckets. 
 Materiality is defined as the company's ability to facilitate 2% in new wealth creation per user relative to average user income.
 Each company being evaluated based on wealth creation is assigned a **Wealth Creation Score** according to the following schedule:
-The **Portfolio Wealth Creation Score** is then calculated as the average score across all portfolio companies with available data.
 
 ![Image 3](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%203.png)
+
+The **Portfolio Wealth Creation Score** is then calculated as the average score across all portfolio companies with available data.
 
 For each company being measured by risk mitigation, scores are once again determined by materiality buckets.
 Materiality is defined as the company's ability to facilitate a 2% improvement in risk mitigation per user relative to the average user income.
