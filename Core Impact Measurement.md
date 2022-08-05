@@ -62,9 +62,9 @@ Each company being evaluated based on risk mitigation is assigned a **Risk Mitig
 
 The **Portfolio Risk Mitigation Score** is then calculated as the average score across all portfolio companies with available data.
 
-Finally, the portfolio is assigned **Portfolio Value Creation Score** by weighting each type of score according to the number of portfolio companies being measured by that method:
+Finally, the portfolio is assigned a **Portfolio Value Creation Score** by weighting each type of score according to the number of portfolio companies being measured by that method:
 
-*Portfolio Value Creation Score = (Portfolio Cost Savings Score * # of Cost Savings Companies + Portfolio Wealth Creation Score * # of Wealth Creation Companies + Portfolio Risk Mitigation Score * # of Risk Mitigation Companies)/Total # of Portfolio Companies with Available Data*
+*Portfolio Value Creation Score = (Portfolio Cost Savings Score * Number of Cost Savings Companies + Portfolio Wealth Creation Score * Number of Wealth Creation Companies + Portfolio Risk Mitigation Score * Number of Risk Mitigation Companies)/Total Number of Portfolio Companies with Available Data*
 
 ### Impact Stakeholders
 Impact stakeholders are individuals or entities that are connected to the company that have an explicit focus on social impact. 
