@@ -120,15 +120,23 @@ Once the percentage of users in each income quintile are determined across the e
 
 ## Alignment
 Alignment captures the depth of connection between a company's business model and its social impact and the degree to which a company is actively monitoring its social impact.
-### Revenue-to-Savings Correlation
+### Business Model Correlation
 For each portfolio company, if the venture has three or more years of available revenue and savings per user data, the correlation between annual savings per customer and annual revenue is calculated using all years of available data.
 The company is assigned a **Revenue-to-Savings Correlation Score** according to the following schedule:
 
 ![Image 10](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%2010.png)
 
+The **Portfolio Revenue-to-Savings Correlation Score** is then calculated as the average score across all portfolio companies with available data.
+
 If the necessary three years of data is not available to calculate the correlation, the company is assigned a score of 1-10 for each of the Financial Health Network's Compass Principles: embrace inclusion, build trust, promote success, create opportunity.
 The company is also assigned an impact probability by the Financial Health Network.
-The company is assigned a **Revenue-to-Savings Correlation Score** by averaging the Compass Principles scores and mutiplying by the impact probability.
+Each of these companies is assigned a **Compass Principles Score** by averaging the Compass Principles scores and mutiplying by the impact probability.
+
+The **Portfolio Compass Principles Score** is then calculated as the average score across all portfolio companies with available data.
+
+Finally, the portfolio is assigned a **Portfolio Business Model Correlation Score** by weighting each type of score according to the number of portfolio companies being measured by that method:
+
+*Portfolio Business Model Correlation Score = (Portfolio Revenue-to-Savings Correlation Score * Number of Revenue-to-Savings Correlation Companies + Portfolio Compass Principles Score * Number of Compass Principles Companies)/Total Number of Portfolio Companies with Available Data*
 
 ### Impact KPI
 Each portfolio company is assigned a **Impact KPI Score** of 0 or 10 according to whether it actively monitors at least one impact KPI.
@@ -151,7 +159,7 @@ The portfolio is assigned a **Portfolio Scale Score** according to the following
 
 The portfolio is assigned an **Portfolio Alignment Score** according to the following formula:
 
-*Portfolio Alignment Score = Portfolio Revenue-to-Savings Score * 0.5 + Portfolio Impact KPI Score * 0.5*
+*Portfolio Alignment Score = Portfolio Business Model Correlation Score * 0.5 + Portfolio Impact KPI Score * 0.5*
 
 The portfolio is assigned an overall **Portfolio Impact Score** according to the following formula:
 
