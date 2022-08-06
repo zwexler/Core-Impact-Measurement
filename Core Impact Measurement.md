@@ -144,7 +144,7 @@ Each portfolio company is assigned a **Impact KPI Score** of 0 or 10 according t
 The portfolio is then assigned a **Portfolio Impact KPI Score** by averaging the scores across all portfolio companies with available data.
 
 ## Aggregation
-Through the processes described above, the portfolio is assigned a score for each of the measures described in the Introduction. Once all of these score have been calculated, category scores can be assigned for the portfolio.
+Through the processes described above, the portfolio is assigned a score for each of the measures described in the Introduction. Once all of these scores have been calculated, category scores can be assigned for the portfolio.
 
 It is important to note that certain scores are allowed to exceed 10 to allow performance beyond expectations to balance with opportunities for improvement.
 This applies to the three measures of Quality and the two measures of Scale.
