@@ -147,7 +147,6 @@ The portfolio is then assigned a **Portfolio Impact KPI Score** by averaging the
 Through the processes described above, the portfolio is assigned a score for each of the measures described in the Introduction. Once all of these scores have been calculated, category scores can be assigned for the portfolio.
 
 It is important to note that certain scores are allowed to exceed 10 to allow performance beyond expectations to balance with opportunities for improvement.
-This applies to the three measures of Quality and the two measures of Scale.
 
 The portfolio is assigned a **Portfolio Quality Score** according to the following formula:
 
@@ -172,7 +171,7 @@ It is unreasonable to take credit any impact growth that occurs after an exit, y
 Exited companies are judged in Value Creation and Scale but not in any of the other measures.
 
 ### Business Model and Stage
-Companies that are too nascent to meaningfully assess or those whose business model precludes measuring quantifiable savings are excluded.
+Companies that are too nascent to meaningfully assess or those whose business model precludes measuring quantifiable value creation are excluded.
 
 ### Ownership
 Companies in which the ownership stake is not enough to solicit information or to be influential are excluded.
