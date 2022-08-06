@@ -113,8 +113,8 @@ The portfolio is then assigned a **Portfolio Individuals Served Score** accordin
 
 ### Target Demographic
 After identifying the size of the portfolio's active user base, the percentage of users in each income quintile is determined according to the buckets published by the US Census Bureau.
-Attributing the user base by income quintile can be difficult. Often the best approach is use approximations provided by each company or to make assumptions based on user geography or other demographics.
-Once the percentage of users in each income quintile are determined across the entire portfolio, the portfolio is assigned a **Portfolio Target Demographic Score** according to the following schedule:
+Attributing the user base by income quintile can be difficult. Often the best approach is to use approximations provided by each company or to make assumptions based on each company's user geography or other demographics.
+Once the percentage of users in each income quintile is determined across the entire portfolio, the portfolio is assigned a **Portfolio Target Demographic Score** according to the following schedule:
 
 ![Image 9](https://github.com/pholt18/Core/blob/a24f85769fb244eda152f13158d1ea3777c00662/Images/Image%209.png)
 
