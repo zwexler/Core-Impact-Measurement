@@ -6,7 +6,7 @@ Core Innovation Capital measures the social impact of its portfolio in three bro
 Quality captures the degree to which the portfolio generates impactful outcomes for individuals. 
 Quality is divided into three measures: value created per user per month, the level to which portfolio companies are connected to external impact stakeholders, and an assessment of the each portfolio company's social impact traction and potential.
 
-Scale captures the number of individuals benefiting from portfolio companies and how well the portfolio is serving Core's target demographic of indiviudals in the bottom three quintiles of income.
+Scale captures the number of individuals benefiting from portfolio companies and how well the portfolio is serving Core's target demographic of individuals in the bottom three quintiles of income.
 
 Alignment captures the depth of connection between each portfolio company's business model and its social impact and the degree to which portfolio companies are actively monitoring their social impact.
 
@@ -99,7 +99,7 @@ The **Impact Traction Score** for each company is calculated by averaging the sp
 The **Portfolio Impact Traction Score** is then calculated as the average score across all portfolio companies with available data.
 
 ## Scale
-Scale captures the number of individuals benefiting from a company's operations and how well the company is serving Core's target demographic of indiviudals in the bottom three quintiles of income.
+Scale captures the number of individuals benefiting from a company's operations and how well the company is serving Core's target demographic of individuals in the bottom three quintiles of income.
 
 ### Individuals Served
 In order to measure the scale dimension of impact, the total number of active users must be identified.
@@ -130,7 +130,7 @@ The **Portfolio Revenue-to-Savings Correlation Score** is then calculated as the
 
 If the necessary three years of data is not available to calculate the correlation, the company is assigned a score of 1-10 for each of the Financial Health Network's Compass Principles: embrace inclusion, build trust, promote success, create opportunity.
 The company is also assigned an impact probability by the Financial Health Network.
-Each of these companies is assigned a **Compass Principles Score** by averaging the Compass Principles scores and mutiplying by the impact probability.
+Each of these companies is assigned a **Compass Principles Score** by averaging the Compass Principles scores and multiplying by the impact probability.
 
 The **Portfolio Compass Principles Score** is then calculated as the average score across all portfolio companies with available data.
 
